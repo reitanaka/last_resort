@@ -29,7 +29,8 @@ font-family:YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "serif"
 .p2 {
 width: 100%;
 text-align: center;
-font-size: 250%;
+font-size: 250%;\
+font-weight: bold;
 color: #FF0000;
 font-family:YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "serif"
 }
